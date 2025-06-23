@@ -1,16 +1,3 @@
-# flutter_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I built a pet project — a crypto app in Flutter that works with a cryptocurrency API.
+It displays all the coins I want, and when tapped, shows the current price, as well as the 24-hour high and low.
+The project is built with a clean architecture and proper logging.
