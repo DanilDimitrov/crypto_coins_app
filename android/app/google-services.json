@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822075275906",
+    "project_id": "cryptolistapp",
+    "storage_bucket": "cryptolistapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822075275906:android:10e7376f1259b4dba7529b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAX1l0Pv5N2_NQD3O1sk5IYv_WsJN9hHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
